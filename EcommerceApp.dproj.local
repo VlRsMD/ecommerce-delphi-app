@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.268,=C:\Users\User\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.002,C:\Users\User\OneDrive\Документы\Embarcadero\Studio\Projects\EcommerceApp\EcommerceShop.dfm=C:\Users\User\OneDrive\Документы\Embarcadero\Studio\Projects\EcommerceApp\EcommerceApp.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.961,C:\Users\User\OneDrive\Документы\Embarcadero\Studio\Projects\EcommerceApp\Project1.dproj=C:\Users\User\OneDrive\Документы\Embarcadero\Studio\Projects\EcommerceApp\EcommerceApp.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.017,C:\Users\User\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\User\OneDrive\Документы\Embarcadero\Studio\Projects\EcommerceShop.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.359,C:\Users\User\OneDrive\Документы\Embarcadero\Studio\Projects\EcommerceShop.dfm=C:\Users\User\OneDrive\Документы\Embarcadero\Studio\Projects\EcommerceApp\EcommerceShop.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.017,C:\Users\User\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\User\OneDrive\Документы\Embarcadero\Studio\Projects\EcommerceShop.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.002,C:\Users\User\OneDrive\Документы\Embarcadero\Studio\Projects\EcommerceApp\EcommerceShop.pas=C:\Users\User\OneDrive\Документы\Embarcadero\Studio\Projects\EcommerceApp\EcommerceApp.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.516,C:\Users\User\OneDrive\Документы\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\User\OneDrive\Документы\Embarcadero\Studio\Projects\EcommerceApp\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.359,C:\Users\User\OneDrive\Документы\Embarcadero\Studio\Projects\EcommerceShop.pas=C:\Users\User\OneDrive\Документы\Embarcadero\Studio\Projects\EcommerceApp\EcommerceShop.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.617,C:\Users\User\OneDrive\Документы\Embarcadero\Studio\Projects\EcommerceApp\products.xml=C:\Users\User\OneDrive\Документы\Embarcadero\Studio\Projects\EcommerceApp\products.xml.xml</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.722,C:\Users\User\OneDrive\Документы\Embarcadero\Studio\Projects\EcommerceApp\EcommerceApp.pas=C:\Users\User\OneDrive\Документы\Embarcadero\Studio\Projects\EcommerceApp\EcommerceShop.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.091,C:\Users\User\OneDrive\Документы\Embarcadero\Studio\Projects\EcommerceApp\products.xml.html=C:\Users\User\OneDrive\Документы\Embarcadero\Studio\Projects\EcommerceApp\products.html</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.747,=C:\Users\User\OneDrive\Документы\Embarcadero\Studio\Projects\EcommerceApp\Untitled1.xml</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.657,C:\Users\User\OneDrive\Документы\Embarcadero\Studio\Projects\EcommerceApp\Untitled1.xml=C:\Users\User\OneDrive\Документы\Embarcadero\Studio\Projects\EcommerceApp\products.xml</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.722,C:\Users\User\OneDrive\Документы\Embarcadero\Studio\Projects\EcommerceApp\EcommerceApp.dfm=C:\Users\User\OneDrive\Документы\Embarcadero\Studio\Projects\EcommerceApp\EcommerceShop.dfm</Transaction>
+  </Transactions>
+</BorlandProject>

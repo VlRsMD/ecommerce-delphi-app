@@ -1,0 +1,12 @@
+﻿<Products>
+  <Product>
+    <Name>T-Shirt</Name>
+    <Size>M</Size>
+    <Price>19.99</Price>
+  </Product>
+  <Product>
+    <Name>Jeans</Name>
+    <Size>L</Size>
+    <Price>39.95</Price>
+  </Product>
+</Products>
