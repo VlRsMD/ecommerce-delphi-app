@@ -124,17 +124,21 @@ procedure TEccomerceApp.ShowProducts;
 var
   i: Integer;
   Item: TClothingItem;
+  ProductList: TStringList;
 begin
-  ListBoxProducts.Items.Clear;
-
-  for i := 0 to FProducts.Count - 1 do
-  begin
-    Item := TClothingItem(FProducts[i]);
-    ListBoxProducts.Items.Add(
-      Format('%s - Size: %s - Price: $%.2f', [Item.Name, Item.Size, Item.Price])
-    );
+  ProductList := TStringList.Create;
+  try
+    for i := 0 to FProducts.Count - 1 do
+    begin
+      Item := TClothingItem(FProducts[i]);
+      ProductList.Add(
+        Format('%s - Size: %s - Price: $%.2f', [Item.Name, Item.Size, Item.Price])
+      );
+    end;
+    ListBoxProducts.Items.Assign(ProductList);
+  finally
+    ProductList.Free;
   end;
-end;
 
 end.
 
